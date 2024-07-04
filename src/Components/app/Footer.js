@@ -11,7 +11,7 @@ function Footer() {
             </ul>
 
             <p>
-              <small> 쁏 ㅋㅋ </small>
+              <small> 모락모락 </small>
             </p>
           </div>
         </footer>

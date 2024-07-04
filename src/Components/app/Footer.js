@@ -6,12 +6,12 @@ function Footer() {
           <div className="container text-center">
             <ul className="nav justify-content-center mb-3">
               <li className="nav-item">
-                <a className="nav-link text-light" href="/">Top</a>
+                <a className="nav-link text-light" href="/">GD</a>
               </li>
             </ul>
 
             <p>
-              <small> 모락모락 </small>
+              <small> 프론트 깃 체험 끝 </small>
             </p>
           </div>
         </footer>

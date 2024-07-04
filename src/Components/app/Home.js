@@ -2,7 +2,7 @@
 function Home() {
 	return (
 		<div>
-			<h2> 하늘이 싫어요 Home 입니다. </h2>
+			<h2>  습한 거 너무 싫어요 </h2>
 		</div>
 	);
 }

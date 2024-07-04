@@ -2,7 +2,7 @@
 function Home() {
 	return (
 		<div>
-			<h2> 뜨끈뜨끈 </h2>
+			<h2> merge가 머지 </h2>
 
 		</div>
 	);

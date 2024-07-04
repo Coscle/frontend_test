@@ -11,7 +11,7 @@ function Footer() {
             </ul>
 
             <p>
-              <small> Footer 블락 입니다. </small>
+              <small> 쁏 ㅋㅋ </small>
             </p>
           </div>
         </footer>
